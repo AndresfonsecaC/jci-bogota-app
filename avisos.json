@@ -1,6 +1,17 @@
 {
   "avisos": [
     {
+      "id": "2026-11-nueva-direccion",
+      "titulo": "La app cambió de dirección",
+      "texto": "Desde ahora la app de JCI Bogotá está en la cuenta oficial de la organización. Ábrela con el botón, instálala de nuevo (menú ⋮ → «Instalar app» o Compartir → «Agregar a inicio») y borra esta versión.",
+      "tipo": "importante",
+      "desde": "2026-11-22",
+      "enlace": {
+        "texto": "Abrir la nueva app",
+        "url": "https://jci-bogota.github.io/JCI-Bogota/"
+      }
+    },
+    {
       "id": "2026-11-avisos-en-la-app",
       "titulo": "Nuevo: avisos en la app",
       "texto": "Aquí verás los avisos generales de JCI Bogotá. Cuando haya uno nuevo, el ícono de la app mostrará un número.",
